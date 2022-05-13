@@ -1,4 +1,4 @@
-# SadlyDistributed
+# EasyPool
 
  Making volunteer computing easy af.  
  Zero Setup for volunteers. Easy for developers.  
